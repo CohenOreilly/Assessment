@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\looko\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\looko\\.nuget\\packages"
+    ]
+  }
+}
